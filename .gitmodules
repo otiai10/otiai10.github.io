@@ -1,0 +1,3 @@
+[submodule "kanColleWidget"]
+	path = kanColleWidget
+	url = https://github.com/otiai10/kanColleWidget
