@@ -1,0 +1,11 @@
+# Site
+title: otiai10.github.io
+description: >-
+    ウニ・イクラ
+twitter_username: otiai10
+github_username: otiai10
+email: otiai10@gmail.com
+
+# Build
+markdown: kramdown
+theme: minima
