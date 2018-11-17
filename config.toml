@@ -1,8 +1,10 @@
 baseurl = "https://otiai10.com"
-title = "otiai10"
+title = "otiai10 /doc"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
+
+publishDir = "docs"
 
 paginate = 20
 canonifyurls = true
