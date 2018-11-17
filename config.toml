@@ -1,5 +1,5 @@
 baseurl = "https://otiai10.com"
-title = "otiai10 /doc"
+title = "otiai10"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
