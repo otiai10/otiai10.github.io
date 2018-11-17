@@ -1,0 +1,74 @@
+baseurl = "https://otiai10.com"
+title = "otiai10"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+    author = "otiai10"
+    info = "Hiromu OCHIAI"
+    description = "otiai10's personal website"
+    keywords = "blog,developer,personal"
+    avatarurl = "https://avatars1.githubusercontent.com/u/931554?s=460&v=4"
+
+    # favicon_32 = "/img/favicon-32x32.png"
+    # favicon_16 = "/img/favicon-16x16.png"
+
+    footercontent = "人生。"
+
+    hidecredits = false
+    hidecopyright = false
+
+    rtl = false
+
+    math = true
+    custom_css = ["css/custom.css"]
+
+# Social links
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/otiai10/"
+[[params.social]]
+    name = "Gitlab"
+    icon = "fab fa-gitlab fa-2x"
+    weight = 2
+    url = "https://gitlab.com/otiai10/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter fa-2x"
+    weight = 3
+    url = "https://twitter.com/otiai10/"
+[[params.social]]
+    name = "Facebook"
+    icon = "fab fa-facebook fa-2x"
+    weight = 4
+    url = "https://www.facebook.com/ochiai.hiromu"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin fa-2x"
+    weight = 5
+    url = "https://www.linkedin.com/in/hiromu-ochiai"
+[[params.social]]
+    name = "Medium"
+    icon = "fab fa-medium fa-2x"
+    weight = 6
+    url = "https://medium.com/@otiai10"
+
+# Menu links
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "/posts/"
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "/about/"
