@@ -64,6 +64,16 @@ pygmentscodefencesguesssyntax = true
     icon = "fab fa-medium fa-2x"
     weight = 6
     url = "https://medium.com/@otiai10"
+[[params.social]]
+    name = "SoundCloud"
+    icon = "fab fa-soundcloud fa-2x"
+    weight = 7
+    url = "https://soundcloud.com/otiai10"
+[[params.social]]
+    name = "MixCloud"
+    icon = "fab fa-mixcloud fa-2x"
+    weight = 8
+    url = "https://www.mixcloud.com/otiai10"
 
 # Menu links
 [[menu.main]]
