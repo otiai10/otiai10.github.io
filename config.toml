@@ -23,10 +23,10 @@ pygmentscodefencesguesssyntax = true
     # favicon_32 = "/img/favicon-32x32.png"
     # favicon_16 = "/img/favicon-16x16.png"
 
-    footercontent = "人生。"
+    footercontent = "にゃーん"
 
-    hidecredits = false
-    hidecopyright = false
+    hidecredits = true
+    hidecopyright = true
 
     rtl = false
 
@@ -44,21 +44,21 @@ pygmentscodefencesguesssyntax = true
     icon = "fab fa-gitlab fa-2x"
     weight = 2
     url = "https://gitlab.com/otiai10/"
-[[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter fa-2x"
-    weight = 3
-    url = "https://twitter.com/otiai10/"
+# [[params.social]]
+#     name = "Twitter"
+#     icon = "fab fa-twitter fa-2x"
+#     weight = 3
+#     url = "https://twitter.com/otiai10/"
 [[params.social]]
     name = "Facebook"
     icon = "fab fa-facebook fa-2x"
     weight = 4
     url = "https://www.facebook.com/ochiai.hiromu"
-[[params.social]]
-    name = "LinkedIn"
-    icon = "fab fa-linkedin fa-2x"
-    weight = 5
-    url = "https://www.linkedin.com/in/hiromu-ochiai"
+# [[params.social]]
+#     name = "LinkedIn"
+#     icon = "fab fa-linkedin fa-2x"
+#     weight = 5
+#     url = "https://www.linkedin.com/in/hiromu-ochiai"
 [[params.social]]
     name = "Medium"
     icon = "fab fa-medium fa-2x"
@@ -76,11 +76,11 @@ pygmentscodefencesguesssyntax = true
     url = "https://www.mixcloud.com/otiai10"
 
 # Menu links
-[[menu.main]]
-    name = "Blog"
-    weight = 1
-    url  = "/posts/"
-[[menu.main]]
-    name = "About"
-    weight = 2
-    url = "/about/"
+# [[menu.main]]
+#     name = "Blog"
+#     weight = 1
+#     url  = "/posts/"
+# [[menu.main]]
+#     name = "About"
+#     weight = 2
+#     url = "/about/"
